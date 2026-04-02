@@ -44,7 +44,7 @@ I am a developer who loves building smart solutions. Currently, I am bridging th
 <p align="left">
   <a href="mailto:chamindusandeepa339@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://linkedin.com/in/chamidu-sandeepa-431025311" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
-  <a href="https://fb.com/chamindusandeepa339" target="blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
+ <a href="https://fb.com/https://www.facebook.com/chamindusandeepa339" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"  width="40" /></a>
   <a href="https://instagram.com/chamii.hmg" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </p>
 
