@@ -1,86 +1,68 @@
-<h1 align="center">Hi 👋, I'm Chamidu Sandeepa</h1>
-<h3 align="center">I am an undergraduate in Computing and Information Systems at Sabaragamuwa University of Sri Lanka.</h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=hmgchamidu&label=Profile%20views&color=0e75b6&style=flat" alt="hmgchamidu" />
-</p>
-
-<!-- Trophies are often large, centering them improves the sleek look -->
-
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hmgchamidu&theme=darkhub" alt="hmgchamidu" /></a>
-</p>
-
 <div align="center">
-<h2 style="font-size: 2em; margin-bottom: 0.5em;">✨ Welcome to My Digital Hub!</h2>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:1e293b&height=220&section=header&text=Chamidu%20Sandeepa&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
+
+  <h3>🚀 Computing & Information Systems Undergraduate</h3>
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXlzem9ob2Vsd2xoeWlpeGRreGtzdjdma21najVoM3o5NmVucmI0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Coding Animation" />
+
+  <p align="center">
+    <br />
+    <img src="https://img.shields.io/badge/Sri_Lanka-🇱🇰-blue?style=flat-square" />
+    <img src="https://img.shields.io/badge/Open_To-Projects-green?style=flat-square" />
+    <img src="https://img.shields.io/github/followers/hmgchamidu?label=Followers&style=social" />
+  </p>
 </div>
 
-<!-- START OF THE REDESIGNED SIDE-BY-SIDE 'ABOUT ME' SECTION -->
+---
 
-<table style="width:95%; margin: auto; border-collapse: collapse; border: none ;">
-<tr style="border: none;">
-<!-- LEFT COLUMN: ABOUT ME TEXT -->
-<td valign="top" width="50%" style="padding-right: 30px; border:none;">
+### ⚡ Quick Summary
+I am a developer who loves building smart solutions. Currently, I am bridging the gap between **Software Engineering** and **IoT** to create systems that make life easier.
 
-<h3 align="left">⚙️ About Me:</h3>
-<p>
-&bull; <b>Computing & Information Systems Undergraduate</b> At Sabaragamuwa University of Sri Lanka.
+- 🔭 **Working on:** [Smart Presence](https://github.com/hmgchamidu) - A biometric & BLE attendance system.
+- 🌱 **Learning:** Cloud Architecture and Advanced Spring Boot.
+- 🎨 **Design:** Creating sleek UI/UX prototypes in **Figma**.
+- 💬 **Ask me about:** Java, React Native, or why I like Cricket!
 
+---
 
+### 🛠️ My Tech Universe
 
-
-
-&bull; <b>Currently Exploring</b> Networking, Cloud Computing & IoT.
-
-
-
-
-
-&bull; <b>Let's Connect with <u>Email</u>: chamindusandeepa339@gmail.com
-</p>
-
-</td>
-
-<!-- RIGHT COLUMN: CENTERED GIF -->
-
-<td valign="top" width="45%" align="center" style="border:none;" >
-
-<img src="coding.gif" alt="Coding Animation" width="70%"/>
-
-</td>
-</tr>
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Core</h4>
+      <img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql&perline=3" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Frameworks & Tools</h4>
+      <img src="https://skillicons.dev/icons?i=spring,react,figma,git,arduino,ubuntu,idea&perline=4" />
+    </td>
+  </tr>
 </table>
-<!-- END OF THE SIDE-BY-SIDE SECTION -->
 
-<!-- NEW LOCATION FOR LEFT-ALIGNED "CONNECT WITH ME" ICONS -->
-
-<h3 align="left" style="margin-left: 2.5%;">🔗 Connect with me:</h3>
-
-<p align="left" style="margin-left: 2.5%;">
-<a href="https://linkedin.com/in/chamidu-sandeepa-431025311" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/chamindusandeepa339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.instagram.com/chamii.hmg" target="blank"><img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original-wordmark.svg" alt="Instagram" height="30" width="40" /></a>
+#### 📫 Let's Build Something Together!
+<p align="left">
+  <a href="mailto:chamindusandeepa339@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
+  <a href="https://linkedin.com/in/chamidu-sandeepa-431025311" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
+  <a href="https://fb.com/chamindusandeepa339" target="blank"><img src="https://skillicons.dev/icons?i=facebook" width="40" /></a>
+  <a href="https://instagram.com/chamii.hmg" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </p>
 
-<h3 align="left" style="margin-left: 2.5%;">🛠️ Languages and Tools</h3>
+---
 
-<p align="left" style="margin-left: 2.5%;">
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
+### 📈 My GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmgchamidu&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmgchamidu&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
 </p>
 
-<h3 align="left">📈 GitHub Stats and Activity:</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmgchamidu&theme=tokyonight&hide_border=true" width="95%" />
+</p>
+
+<br />
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=hmgchamidu&show_icons=true&locale=en&layout=compact&theme=dark" alt="hmgchamidu" />
-<img src="https://github-readme-stats.vercel.app/api?username=hmgchamidu&show_icons=true&locale=en&theme=dark" alt="hmgchamidu" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hmgchamidu&theme=dark" alt="hmgchamidu" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
