@@ -52,10 +52,10 @@ I am a developer who loves building smart solutions. Currently, I am bridging th
 
 ### 📈 My GitHub Pulse
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hmgchamidu&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmgchamidu&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
-</p>
+<!-- <p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=hmgchamidu&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmgchamidu&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmgchamidu&theme=tokyonight&hide_border=true" width="95%" />
