@@ -16,12 +16,12 @@
 ---
 
 ### ⚡ Quick Summary
-I am a developer who loves building smart solutions. Currently, I am bridging the gap between **Software Engineering** and **IoT** to create systems that make life easier.
+I am a developer passionate about building scalable cloud-native systems, backend services, and automated GitOps pipelines.
 
-- 🔭 **Working on:** [Smart Presence](https://github.com/hmgchamidu) - A biometric & BLE attendance system.
-- 🌱 **Learning:** Cloud Architecture and Advanced Spring Boot.
+- 🔭 **Working on:** Enterprise FinTech Platform with Zero-Downtime Deployments & Smart Presence BLE Attendance System.
+- 🌱 **Learning:** Kubernetes, Terraform, ArgoCD, and Advanced Spring Boot Microservices.
 - 🎨 **Design:** Creating sleek UI/UX prototypes in **Figma**.
-- 💬 **Ask me about:** Java, React Native, or why I like Cricket!
+- 💬 **Ask me about:** Java, Spring Boot, Docker, Kubernetes, or why I like Cricket!
 
 ---
 
@@ -35,7 +35,7 @@ I am a developer who loves building smart solutions. Currently, I am bridging th
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Frameworks & Tools</h4>
-      <img src="https://skillicons.dev/icons?i=spring,react,figma,git,arduino,ubuntu,idea&perline=4" />
+      <img src="https://skillicons.dev/icons?i=spring,react,k8s,docker,terraform,ubuntu,git,idea&perline=4" />
     </td>
   </tr>
 </table>
@@ -44,18 +44,13 @@ I am a developer who loves building smart solutions. Currently, I am bridging th
 <p align="left">
   <a href="mailto:chamindusandeepa339@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40" /></a>
   <a href="https://linkedin.com/in/chamidu-sandeepa-431025311" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" width="40" /></a>
- <a href="https://fb.com/https://www.facebook.com/chamindusandeepa339" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"  width="40" /></a>
+  <a href="https://facebook.com/chamindusandeepa339" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="40" /></a>
   <a href="https://instagram.com/chamii.hmg" target="blank"><img src="https://skillicons.dev/icons?i=instagram" width="40" /></a>
 </p>
 
 ---
 
 ### 📈 My GitHub Pulse
-
-<!-- <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=hmgchamidu&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hmgchamidu&layout=compact&theme=tokyonight&border_radius=10" width="45%" />
-</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hmgchamidu&theme=tokyonight&hide_border=true" width="95%" />
